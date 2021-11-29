@@ -1,4 +1,1 @@
-### Hi there 👋
-
-Hello, How Is Your Day Going?
-Mine Is Great. 😁
+hi i code stuff that might work sometimes idk
